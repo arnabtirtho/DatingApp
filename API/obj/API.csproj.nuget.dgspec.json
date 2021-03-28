@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Installed Software\\VS2019 Projects\\DatingApp\\API\\API.csproj": {}
+    "D:\\Installed Software\\VS2019 Projects\\DatingApp\\APi\\API.csproj": {}
   },
   "projects": {
-    "D:\\Installed Software\\VS2019 Projects\\DatingApp\\API\\API.csproj": {
+    "D:\\Installed Software\\VS2019 Projects\\DatingApp\\APi\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Installed Software\\VS2019 Projects\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "D:\\Installed Software\\VS2019 Projects\\DatingApp\\APi\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Installed Software\\VS2019 Projects\\DatingApp\\API\\API.csproj",
+        "projectPath": "D:\\Installed Software\\VS2019 Projects\\DatingApp\\APi\\API.csproj",
         "packagesPath": "C:\\Users\\aritra\\.nuget\\packages\\",
-        "outputPath": "D:\\Installed Software\\VS2019 Projects\\DatingApp\\API\\obj\\",
+        "outputPath": "D:\\Installed Software\\VS2019 Projects\\DatingApp\\APi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aritra\\AppData\\Roaming\\NuGet\\NuGet.Config",

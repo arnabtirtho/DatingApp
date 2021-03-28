@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mpaTvwrWMNwxjaGf8s/92eTyHAuK3Au0BTGtZLbHtS9NX5YbXVGN4OX+xHzDA/3Lighg7DuuEOkswffRrwgzlA==",
+  "dgSpecHash": "XpSFUneadlu8wUzrZuUI9iV3Ag5p1LzgKAeqwIhXerHITAJd8pYe4B/WvyFj4tUYpJN2xFVYBHP8L8O1gK/jlQ==",
   "success": true,
-  "projectFilePath": "D:\\Installed Software\\VS2019 Projects\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "D:\\Installed Software\\VS2019 Projects\\DatingApp\\APi\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aritra\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\aritra\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
