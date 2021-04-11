@@ -66,3 +66,10 @@ D:\Installed Software\VS2019 Projects\DatingApp\API\obj\Debug\net5.0\scopedcss\b
 D:\Installed Software\VS2019 Projects\DatingApp\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
 D:\Installed Software\VS2019 Projects\DatingApp\API\obj\Debug\net5.0\API.csproj.CopyComplete
 D:\Installed Software\VS2019 Projects\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\Installed Software\VS2019 Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Installed Software\VS2019 Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Installed Software\VS2019 Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Installed Software\VS2019 Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Installed Software\VS2019 Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Installed Software\VS2019 Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Installed Software\VS2019 Projects\DatingApp\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
